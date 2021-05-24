@@ -1,4 +1,4 @@
-package Lesson1;
+package L1;
 
 public class Orange extends Fruit {
     @Override
